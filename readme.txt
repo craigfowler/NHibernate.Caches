@@ -20,6 +20,7 @@ It's recommended to research for a while before deciding which one is better for
 Notes
 ======================================
 Build 3.3.3 (rev1687 of contrib) for NHibernate 3.3.3
+Forked from main branch to update to the latest Nhibernate build
 ================================================================
 Build 3.2.0.GA (rev1686 of contrib) for NHibernate 3.2.0GA
 ================================================================
